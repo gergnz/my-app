@@ -17,6 +17,11 @@
                     "appId": "d1ohfr3el4dt89",
                     "type": "cicd"
                 }
+            },
+            "auth": {
+                "myapp29c1b8f8": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Google\",\"client_id\":\"1053465960189-gcdep6tbupenj51e9uqmggb3m3vbk2jm.apps.googleusercontent.com\",\"client_secret\":\"Y9izzrd1DoSnS0SibJoZxua0\"}]"
+                }
             }
         }
     }
